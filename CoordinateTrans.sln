@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoordinateTrans", "CoordinateTrans\CoordinateTrans.csproj", "{BCDA1FD1-C516-431D-8042-2B1E88E455AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCDA1FD1-C516-431D-8042-2B1E88E455AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCDA1FD1-C516-431D-8042-2B1E88E455AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCDA1FD1-C516-431D-8042-2B1E88E455AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCDA1FD1-C516-431D-8042-2B1E88E455AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {999CDA4C-0033-4A02-B672-7FB6CC49188D}
+	EndGlobalSection
+EndGlobal
